@@ -1,0 +1,21 @@
+{
+	"name": "code-ehd-acf-snippets",
+	"displayName": "EHD - ACF Programmatic Fields",
+	"description": "OOTS Versuib of Easily create ACF fields and field groups in PHP without ever touching the GUI!",
+	"version": "0.1.0",
+	"publisher": "mattedwards",
+	"engines": {
+		"vscode": "^1.21.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "php",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	}
+}
