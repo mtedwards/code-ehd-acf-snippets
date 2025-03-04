@@ -4,6 +4,9 @@ This is a collection of Visual Studio Code snippets for the
 [Advanced Custom Fields](http://www.advancedcustomfields.com/) Wordpress plugin.
 The snippets allow you to easily create fields and field groups in PHP without making use of the GUI.
 
+## Installation
+To install add the entire folder into your VS Code extensions folder: ```~/.vscode/extensions```.
+
 ## Release Notes
 
 Users appreciate release notes as you update your extension.
